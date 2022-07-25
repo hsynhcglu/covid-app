@@ -1,5 +1,4 @@
 import { useState } from 'react';
-import './App.css';
 import CoronaForContinent from './components/CoronaForContient';
 import CoronaForCountry from './components/CoronaForCountry';
 import Header from './components/Header';
