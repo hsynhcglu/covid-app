@@ -1,0 +1,1 @@
+/src/consts/index.js bu şekilde dosya oluşturup API_URL VE API_TOKEN değişkenlerine gerekli verileri koymak gerekli.
